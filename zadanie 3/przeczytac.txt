@@ -1,0 +1,9 @@
+ 0   1  72  44  35
+  59   0  34  66  90
+  93  85   0  92  54
+  18  11  77   0  24
+  78  93  14  60   0
+
+macierz ktora nalezy wykorzystac w tym programie
+
+program main.exec do rozwiazania zadania !
